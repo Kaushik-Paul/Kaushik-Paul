@@ -8,6 +8,10 @@
 
 [![Download Resume](https://img.shields.io/badge/Resume-Download-0e75b6?style=flat)](https://storage.googleapis.com/kaushik-resources/Kaushik%20Paul%20Resume.pdf)
 
+<div style="display:inline-flex; align-items:center; justify-content:center; margin:18px 0; width:108px; height:108px; border-radius:50%; background:radial-gradient(circle at 35% 30%, #1f6feb 0%, #0d1117 72%); border:1px solid rgba(240,246,252,0.18); box-shadow:0 16px 38px rgba(15, 76, 163, 0.38); overflow:hidden;">
+  <img src="https://storage.googleapis.com/kaushik-resources/kaushik-website-logo.jpg" alt="Kaushik Paul Logo" height="72" style="border-radius:18px;" />
+</div>
+
 ---
 
 ## About
@@ -37,65 +41,16 @@
 
 **Backend & Frameworks:** Django, Spring Boot, Celery, Kafka
 
-**AI / Agents:** CrewAI, LangGraph, Microsoft AutoGen, Agentic AI, Prompt Engineering, MCP
 
 **Data & Storage:** PostgreSQL, MongoDB, MySQL, Elasticsearch
 
 **Cloud & Infra:** AWS, Docker, Git, CI/CD
-
----
-
-## Featured Projects
-
-- **Auto AI Agents Creator** · Microsoft AutoGen
-  
-  Multi-agent system that collaborates to generate, critique, and refine solutions using Autogen.
-  
-  Repo: https://github.com/Kaushik-Paul/Auto-AI-Agents-Creator
-
-- **AI Agentic Coder** · Automated Dev System
-  
-  Idea-to-app pipeline: agents plan, code, test, and iterate towards production-ready outputs.
-  
-  Repo: https://github.com/Kaushik-Paul/AI-Agentic-Coder
-
-- **Stock Picker** · AI Investment Analysis
-  
-  Identifies trending companies and produces research-backed insights with automated market intelligence.
-  
-  Repo: https://github.com/Kaushik-Paul/Stock-Picker
-
-- **Stock Market Portfolio Manager** · AI Trading Agent
-  
-  Portfolio analysis and automated trading strategies using intelligent algorithms.
-  
-  Repo: https://github.com/Kaushik-Paul/Stock-Market-Portfolio-Manager
-
-- **Career Conversation** · AI Career Assistant
-  
-  Answers career and experience questions with context-aware responses from professional profiles.
-  
-  Repo: https://github.com/Kaushik-Paul/Career-Conversation
-
-- **Grokking Low Level Design**
-  
-  A curated set of LLD exercises and patterns.
-  
-  Repo: https://github.com/Kaushik-Paul/Grokking-Low-Level-Design
-
-Explore more:
-
-- Projects site: https://projects.kaushikpaul.co.in/
-- All repositories: https://github.com/Kaushik-Paul?tab=repositories
-
----
 
 ## Experience Highlights
 
 - Resolved 800+ P0/P1 issues and shipped critical features stabilizing recruiter workflows.
 - Decoupled booking modules; reduced bugs and eased future development.
 - Built dynamic, on-the-fly email templates to accelerate rollouts from ~30 hours to ~1 hour.
-- Automated educator payouts and class scheduling, saving **260+ person-hours/month**.
 - Improved attendance with real-time tracking and automated reminders.
 
 ---
@@ -124,17 +79,26 @@ Explore more:
 ### Pinned Repositories
 
 <div align="center">
-
-<a href="https://github.com/Kaushik-Paul/Auto-AI-Agents-Creator">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=Auto-AI-Agents-Creator&theme=tokyonight" alt="Auto-AI-Agents-Creator" />
-  </a>
-<a href="https://github.com/Kaushik-Paul/AI-Agentic-Coder">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=AI-Agentic-Coder&theme=tokyonight" alt="AI-Agentic-Coder" />
-  </a>
-<a href="https://github.com/Kaushik-Paul/Stock-Picker">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=Stock-Picker&theme=tokyonight" alt="Stock-Picker" />
-  </a>
-
+  <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
+    <a href="https://github.com/Kaushik-Paul/Auto-AI-Agents-Creator" style="display:inline-flex;">
+      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=Auto-AI-Agents-Creator&theme=tokyonight" alt="Auto-AI-Agents-Creator" />
+    </a>
+    <a href="https://github.com/Kaushik-Paul/AI-Agentic-Coder" style="display:inline-flex;">
+      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=AI-Agentic-Coder&theme=tokyonight" alt="AI-Agentic-Coder" />
+    </a>
+    <a href="https://github.com/Kaushik-Paul/Stock-Picker" style="display:inline-flex;">
+      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=Stock-Picker&theme=tokyonight" alt="Stock-Picker" />
+    </a>
+    <a href="https://github.com/Kaushik-Paul/Grokking-Low-Level-Design" style="display:inline-flex;">
+      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=Grokking-Low-Level-Design&theme=tokyonight" alt="Grokking-Low-Level-Design" />
+    </a>
+    <a href="https://github.com/Kaushik-Paul/Stock-Market-Portfolio-Manager" style="display:inline-flex;">
+      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=Stock-Market-Portfolio-Manager&theme=tokyonight" alt="Stock-Market-Portfolio-Manager" />
+    </a>
+    <a href="https://github.com/Kaushik-Paul/Career-Conversation" style="display:inline-flex;">
+      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=Career-Conversation&theme=tokyonight" alt="Career-Conversation" />
+    </a>
+  </div>
 </div>
 
 ### Trophies
