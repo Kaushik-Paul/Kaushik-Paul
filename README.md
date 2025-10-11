@@ -117,7 +117,7 @@
 
 ## Connect
 
-- **Email:** [kaushik.paul755@gmail.com](mailto:kaushik.paul755@gmail.com)
+- **Email:** [contact@kaushikpaul.co.in](mailto:contact@kaushikpaul.co.in)
 - **Website:** https://www.kaushikpaul.co.in/
 - **Projects:** https://projects.kaushikpaul.co.in/
 - **LinkedIn:** https://www.linkedin.com/in/kaushik-paul-767590215
