@@ -9,7 +9,7 @@
       <p style="margin:8px 0;">
         <a href="https://www.kaushikpaul.co.in/">Website</a> ·
         <a href="https://projects.kaushikpaul.co.in/">Projects Hub</a> ·
-        <a href="https://github.com/Kaushik-Paul">GitHub</a>
+        <a href="https://www.linkedin.com/in/kaushik-paul-767590215">LinkedIn</a>
       </p>
       <div style="margin:12px 0 0; display:flex; justify-content:flex-start; padding-left:48px;">
         <a href="https://storage.googleapis.com/kaushik-resources/Kaushik%20Paul%20Resume.pdf">
