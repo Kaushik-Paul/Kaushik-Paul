@@ -1,16 +1,17 @@
 <div align="center">
-  <div style="display:flex; flex-wrap:wrap; gap:18px; justify-content:center; align-items:center; max-width:820px; padding-left:64px;">
-    <img src="assets/hero-avatar.svg" alt="Kaushik Paul Avatar" width="140" height="140" style="flex:0 0 auto;" />
-    <div style="text-align:left; flex:1 1 300px;">
+  <div style="display:flex; flex-wrap:nowrap; gap:18px; justify-content:center; align-items:center; max-width:820px; padding-left:32px;">
+    <div style="flex:0 0 auto; display:flex; justify-content:center;">
+      <img src="assets/hero-avatar.svg" alt="Kaushik Paul Avatar" width="120" height="120" style="max-width:100%;" />
+    </div>
+    <div style="text-align:left; flex:1 1 0; min-width:0;">
       <h1 style="margin:0;">Hi, I'm Kaushik Paul 👋</h1>
       <p style="margin:8px 0; font-weight:600;">Software Engineer • Backend & AI Agents Developer</p>
       <p style="margin:8px 0;">
         <a href="https://www.kaushikpaul.co.in/">Website</a> ·
         <a href="https://projects.kaushikpaul.co.in/">Projects Hub</a> ·
-        <a href="https://www.linkedin.com/in/kaushik-paul-767590215">LinkedIn</a> ·
         <a href="https://github.com/Kaushik-Paul">GitHub</a>
       </p>
-      <div style="margin:12px 0 0; display:flex; justify-content:flex-start; padding-left:65px;">
+      <div style="margin:12px 0 0; display:flex; justify-content:flex-start; padding-left:48px;">
         <a href="https://storage.googleapis.com/kaushik-resources/Kaushik%20Paul%20Resume.pdf">
           <img src="https://img.shields.io/badge/Resume-Download-0e75b6?style=flat" alt="Download Resume" />
         </a>
