@@ -1,20 +1,27 @@
 <div align="center">
-
-# Hi, I'm Kaushik Paul 👋
-
-**Software Engineer • Backend & AI Agents Developer**
-
-[Website](https://www.kaushikpaul.co.in/) · [Projects Hub](https://projects.kaushikpaul.co.in/) · [LinkedIn](https://www.linkedin.com/in/kaushik-paul-767590215) · [GitHub](https://github.com/Kaushik-Paul)
-
-[![Download Resume](https://img.shields.io/badge/Resume-Download-0e75b6?style=flat)](https://storage.googleapis.com/kaushik-resources/Kaushik%20Paul%20Resume.pdf)
-
-<div style="display:inline-flex; align-items:center; justify-content:center; margin:18px 0; width:108px; height:108px; border-radius:50%; background:radial-gradient(circle at 35% 30%, #1f6feb 0%, #0d1117 72%); border:1px solid rgba(240,246,252,0.18); box-shadow:0 16px 38px rgba(15, 76, 163, 0.38); overflow:hidden;">
-  <img src="https://storage.googleapis.com/kaushik-resources/kaushik-website-logo.jpg" alt="Kaushik Paul Logo" height="72" style="border-radius:18px;" />
+  <div style="display:flex; flex-wrap:wrap; gap:18px; justify-content:center; align-items:center; max-width:820px; padding-left:64px;">
+    <img src="assets/hero-avatar.svg" alt="Kaushik Paul Avatar" width="140" height="140" style="flex:0 0 auto;" />
+    <div style="text-align:left; flex:1 1 300px;">
+      <h1 style="margin:0;">Hi, I'm Kaushik Paul 👋</h1>
+      <p style="margin:8px 0; font-weight:600;">Software Engineer • Backend & AI Agents Developer</p>
+      <p style="margin:8px 0;">
+        <a href="https://www.kaushikpaul.co.in/">Website</a> ·
+        <a href="https://projects.kaushikpaul.co.in/">Projects Hub</a> ·
+        <a href="https://www.linkedin.com/in/kaushik-paul-767590215">LinkedIn</a> ·
+        <a href="https://github.com/Kaushik-Paul">GitHub</a>
+      </p>
+      <div style="margin:12px 0 0; display:flex; justify-content:flex-start; padding-left:65px;">
+        <a href="https://storage.googleapis.com/kaushik-resources/Kaushik%20Paul%20Resume.pdf">
+          <img src="https://img.shields.io/badge/Resume-Download-0e75b6?style=flat" alt="Download Resume" />
+        </a>
+      </div>
+    </div>
+  </div>
 </div>
 
 ---
 
-## About
+<h2 align="center">About</h2>
 
   I build efficient, scalable backend systems and production-grade AI agents. I focus on performance, reliability, and developer experience.
   
@@ -28,17 +35,10 @@
   
 ---
 
-## Opportunities
+<h2 align="center">Tech Stack</h2>
 
-- Open to roles: **Backend Engineer**, **Senior Software Engineer**, and **Agentic AI** roles.
-- Interested in high-impact backend systems, scalable APIs, and intelligent agent platforms.
-
----
-
-## Tech Stack
-
-### Languages
-<p>
+<h3 align="center">Languages</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
@@ -46,8 +46,8 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
 </p>
 
-### Backend & Frameworks
-<p>
+<h3 align="center">Backend & Frameworks</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
@@ -55,8 +55,8 @@
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </p>
 
-### AI & Agents
-<p>
+<h3 align="center">AI & Agents</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Microsoft_AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft AutoGen" />
   <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" alt="CrewAI" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
@@ -66,16 +66,16 @@
   <img src="https://img.shields.io/badge/MCP-4A90E2?style=for-the-badge&logo=protocol&logoColor=white" alt="MCP" />
 </p>
 
-### Data & Storage
-<p>
+<h3 align="center">Data & Storage</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
 </p>
 
-### Cloud & Infrastructure
-<p>
+<h3 align="center">Cloud & Infrastructure</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
@@ -84,7 +84,9 @@
   <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
 </p>
 
-## Experience Highlights
+---
+
+<h2 align="center">Experience Highlights</h2>
 
 - Resolved 800+ P0/P1 issues and shipped critical features stabilizing recruiter workflows.
 - Decoupled booking modules; reduced bugs and eased future development.
@@ -93,7 +95,7 @@
 
 ---
 
-## Achievements & Certifications
+<h2 align="center">Achievements & Certifications</h2>
 
 - **Kudos Award** — Recognized at Instahyre for consistent delivery and quality.
 - **AWS Certified AI Practitioner — Early Adopter (2024–2027)**
@@ -102,7 +104,7 @@
 
 ---
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 
@@ -112,9 +114,7 @@
 
 </div>
 
----
-
-### Pinned Repositories
+<h3 align="center">Pinned Repositories</h3>
 
 <div align="center">
   <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
@@ -139,13 +139,14 @@
   </div>
 </div>
 
-### Trophies
+
+<h3 align="center">Trophies</h3>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kaushik-Paul&theme=onedark&no-frame=true&row=1&column=6" alt="trophies" />
 </div>
 
-### Activity Graph
+<h3 align="center">Activity Graph</h3>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaushik-Paul&theme=tokyo-night" alt="activity graph" />
@@ -153,7 +154,14 @@
 
 ---
 
-## Connect
+<h2 align="center">Opportunities</h2>
+
+- Open to roles: **Backend Engineer**, **Senior Software Engineer**, and **Agentic AI** roles.
+- Interested in high-impact backend systems, scalable APIs, and intelligent agent platforms.
+
+---
+
+<h2 align="center">Connect</h2>
 
 - **Email:** [contact@kaushikpaul.co.in](mailto:contact@kaushikpaul.co.in)
 - **Website:** https://www.kaushikpaul.co.in/
