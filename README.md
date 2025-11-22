@@ -119,6 +119,12 @@
 
 <div align="center">
   <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
+    <a href="https://github.com/Kaushik-Paul/alex-agent" style="display:inline-flex;">
+      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=alex-agent&theme=tokyonight" alt="alex-agent" />
+    </a>
+    <a href="https://github.com/Kaushik-Paul/Cyber-Security-Agent" style="display:inline-flex;">
+      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=Cyber-Security-Agent&theme=tokyonight" alt="Cyber-Security-Agent" />
+    </a>
     <a href="https://github.com/Kaushik-Paul/Healthcare-Saas" style="display:inline-flex;">
       <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=Healthcare-Saas&theme=tokyonight" alt="Healthcare-Saas" />
     </a>
@@ -145,7 +151,6 @@
     </a>
   </div>
 </div>
-
 
 <h3 align="center">Trophies</h3>
 
