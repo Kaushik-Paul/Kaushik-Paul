@@ -110,9 +110,9 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Kaushik-Paul&show_icons=true&theme=tokyonight" alt="stats" />
-<img height="160" src="https://streak-stats.demolab.com?user=Kaushik-Paul&theme=tokyonight" alt="streak" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushik-Paul&layout=compact&theme=tokyonight" alt="top langs" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaushik-Paul&theme=tokyonight" alt="GitHub stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaushik-Paul&theme=tokyonight" alt="Top languages by repo" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaushik-Paul&theme=tokyonight" alt="Top languages by commit" />
 
 </div>
 
@@ -121,34 +121,34 @@
 <div align="center">
   <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
     <a href="https://github.com/Kaushik-Paul/alex-agent" style="display:inline-flex;">
-      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=alex-agent&theme=tokyonight" alt="alex-agent" />
+      <img src="https://img.shields.io/github/stars/Kaushik-Paul/alex-agent?style=for-the-badge&logo=github&label=alex-agent" alt="alex-agent stars" />
     </a>
     <a href="https://github.com/Kaushik-Paul/AI-Twin" style="display:inline-flex;">
-      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=AI-Twin&theme=tokyonight" alt="AI-Twin" />
+      <img src="https://img.shields.io/github/stars/Kaushik-Paul/AI-Twin?style=for-the-badge&logo=github&label=AI-Twin" alt="AI-Twin stars" />
     </a>
     <a href="https://github.com/Kaushik-Paul/Cyber-Security-Agent" style="display:inline-flex;">
-      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=Cyber-Security-Agent&theme=tokyonight" alt="Cyber-Security-Agent" />
+      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Cyber-Security-Agent?style=for-the-badge&logo=github&label=Cyber-Security-Agent" alt="Cyber-Security-Agent stars" />
     </a>
     <a href="https://github.com/Kaushik-Paul/Healthcare-Saas" style="display:inline-flex;">
-      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=Healthcare-Saas&theme=tokyonight" alt="Healthcare-Saas" />
+      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Healthcare-Saas?style=for-the-badge&logo=github&label=Healthcare-Saas" alt="Healthcare-Saas stars" />
     </a>
     <a href="https://github.com/Kaushik-Paul/Auto-AI-Agents-Creator" style="display:inline-flex;">
-      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=Auto-AI-Agents-Creator&theme=tokyonight" alt="Auto-AI-Agents-Creator" />
+      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Auto-AI-Agents-Creator?style=for-the-badge&logo=github&label=Auto-AI-Agents-Creator" alt="Auto-AI-Agents-Creator stars" />
     </a>
     <a href="https://github.com/Kaushik-Paul/AI-Agentic-Coder" style="display:inline-flex;">
-      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=AI-Agentic-Coder&theme=tokyonight" alt="AI-Agentic-Coder" />
+      <img src="https://img.shields.io/github/stars/Kaushik-Paul/AI-Agentic-Coder?style=for-the-badge&logo=github&label=AI-Agentic-Coder" alt="AI-Agentic-Coder stars" />
     </a>
     <a href="https://github.com/Kaushik-Paul/Stock-Picker" style="display:inline-flex;">
-      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=Stock-Picker&theme=tokyonight" alt="Stock-Picker" />
+      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Stock-Picker?style=for-the-badge&logo=github&label=Stock-Picker" alt="Stock-Picker stars" />
     </a>
     <a href="https://github.com/Kaushik-Paul/Grokking-Low-Level-Design" style="display:inline-flex;">
-      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=Grokking-Low-Level-Design&theme=tokyonight" alt="Grokking-Low-Level-Design" />
+      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Grokking-Low-Level-Design?style=for-the-badge&logo=github&label=Grokking-Low-Level-Design" alt="Grokking-Low-Level-Design stars" />
     </a>
     <a href="https://github.com/Kaushik-Paul/Stock-Market-Portfolio-Manager" style="display:inline-flex;">
-      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=Stock-Market-Portfolio-Manager&theme=tokyonight" alt="Stock-Market-Portfolio-Manager" />
+      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Stock-Market-Portfolio-Manager?style=for-the-badge&logo=github&label=Stock-Market-Portfolio-Manager" alt="Stock-Market-Portfolio-Manager stars" />
     </a>
     <a href="https://github.com/Kaushik-Paul/Career-Conversation" style="display:inline-flex;">
-      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushik-Paul&repo=Career-Conversation&theme=tokyonight" alt="Career-Conversation" />
+      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Career-Conversation?style=for-the-badge&logo=github&label=Career-Conversation" alt="Career-Conversation stars" />
     </a>
   </div>
 </div>
@@ -156,7 +156,7 @@
 <h3 align="center">Trophies</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kaushik-Paul&theme=onedark&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Kaushik-Paul&theme=onedark&no-frame=true&row=1&column=6" alt="trophies" />
 </div>
 
 <h3 align="center">Activity Graph</h3>
