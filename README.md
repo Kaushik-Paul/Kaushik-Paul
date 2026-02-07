@@ -26,13 +26,13 @@
 
   I build efficient, scalable backend systems and production-grade AI agents. I focus on performance, reliability, and developer experience.
   
-  - **Impact-driven:** Optimized critical APIs up to **73% faster** and improved system reliability.
-  - **Systems thinking:** Modularized scheduling flows, cutting wait times by **45%** and reducing cross-module bugs.
-  - **Leadership:** Leading a **5-member engineering team**; in **2025**, shipped multiple company-critical projects, including one of the company's biggest launches.
-  - **High-leverage outcomes:** Automated payouts/scheduling saving **260+ person-hours/month** and increased recruiter feature adoption by **60%**.
-  - **Developer velocity:** Built dynamic email templating to ship features **30× faster**.
-  - **End-to-end delivery:** Delivered features across backend APIs and UI when needed to unblock timelines.
-  - **Mentorship:** Onboarded and mentored engineers to raise team productivity.
+- **Impact-driven:** Optimized critical APIs up to **73% faster** and improved system reliability.
+- **Systems thinking:** Modularized scheduling flows, cutting wait times by **45%** and reducing cross-module bugs.
+- **Leadership:** Leading a **5-member engineering team**; in **2025**, shipped multiple company-critical projects, including one of the company's biggest launches.
+- **High-leverage outcomes:** Automated payouts/scheduling saving **260+ person-hours/month** and increased recruiter feature adoption by **60%**.
+- **Developer velocity:** Built dynamic email templating to ship features **30× faster**.
+- **End-to-end delivery:** Delivered features across backend APIs and UI when needed to unblock timelines.
+- **Mentorship:** Onboarded and mentored engineers to raise team productivity.
   
 ---
 
@@ -50,6 +50,7 @@
 <h3 align="center">Backend & Frameworks</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
@@ -62,6 +63,10 @@
   <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" alt="CrewAI" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/Agentic_AI-00D9FF?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/RAG-6B4FBB?style=for-the-badge&logo=elastic&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Fine_Tuning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Fine Tuning" />
+  <img src="https://img.shields.io/badge/QLoRA-9C27B0?style=for-the-badge&logo=huggingface&logoColor=white" alt="QLoRA" />
+  <img src="https://img.shields.io/badge/Hugging_Face_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Spaces" />
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/MCP-4A90E2?style=for-the-badge&logo=protocol&logoColor=white" alt="MCP" />
@@ -120,6 +125,9 @@
 
 <div align="center">
   <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
+    <a href="https://github.com/Kaushik-Paul/Price-Is-Right" style="display:inline-flex;">
+      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Price-Is-Right?style=for-the-badge&logo=github&label=Price-Is-Right" alt="Price-Is-Right stars" />
+    </a>
     <a href="https://github.com/Kaushik-Paul/alex-agent" style="display:inline-flex;">
       <img src="https://img.shields.io/github/stars/Kaushik-Paul/alex-agent?style=for-the-badge&logo=github&label=alex-agent" alt="alex-agent stars" />
     </a>
@@ -177,10 +185,9 @@
 <h2 align="center">Connect</h2>
 
 - **Email:** [contact@kaushikpaul.co.in](mailto:contact@kaushikpaul.co.in)
-- **Website:** https://www.kaushikpaul.co.in/
-- **Projects:** https://projects.kaushikpaul.co.in/
-- **LinkedIn:** https://www.linkedin.com/in/kaushik-paul-767590215
-- **GitHub:** https://github.com/Kaushik-Paul
+- **Website:** <https://www.kaushikpaul.co.in/>
+- **Projects:** <https://projects.kaushikpaul.co.in/>
+- **LinkedIn:** <https://www.linkedin.com/in/kaushik-paul-767590215>
+- **GitHub:** <https://github.com/Kaushik-Paul>
 
 If you'd like a quick walkthrough of any project, open an issue or reach out on LinkedIn.
-
