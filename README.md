@@ -5,7 +5,7 @@
     </div>
     <div style="text-align:left; flex:1 1 0; min-width:0;">
       <h1 style="margin:0;">Hi, I'm Kaushik Paul 👋</h1>
-      <p style="margin:8px 0; font-weight:600;">Software Engineer • Backend & AI Agents Developer</p>
+      <p style="margin:8px 0; font-weight:600;">SDE-2 @ Instahyre • Backend Systems & AI Agents Developer</p>
       <p style="margin:8px 0;">
         <a href="https://www.kaushikpaul.co.in/">Website</a> ·
         <a href="https://projects.kaushikpaul.co.in/">Projects Hub</a> ·
@@ -24,12 +24,14 @@
 
 <h2 align="center">About</h2>
 
-  I build efficient, scalable backend systems and production-grade AI agents. I focus on performance, reliability, and developer experience.
+  I'm an SDE-2 at Instahyre, building efficient backend systems and production-grade AI experiences. I focus on performance, reliability, developer experience, and high-impact product delivery.
   
+- **Current focus:** Leading Instahyre's flagship **2026 AI-powered job creation & recommendation** beta.
+- **AI impact:** Reduced job creation time by **65%** and improved candidate relevancy by **45%** through richer job intelligence and matching signals.
 - **Impact-driven:** Optimized critical APIs up to **73% faster** and improved system reliability.
 - **Systems thinking:** Modularized scheduling flows, cutting wait times by **45%** and reducing cross-module bugs.
-- **Leadership:** Leading a **5-member engineering team**; in **2025**, shipped multiple company-critical projects, including one of the company's biggest launches.
-- **High-leverage outcomes:** Automated payouts/scheduling saving **260+ person-hours/month** and increased recruiter feature adoption by **60%**.
+- **Leadership:** Leading **5 developers** across feature delivery, blocker resolution, code/design reviews, and technical direction.
+- **High-leverage outcomes:** Launched a major hiring-suite release increasing consultant retention by **30%+** and hiring speed by **20%**.
 - **Developer velocity:** Built dynamic email templating to ship features **30× faster**.
 - **End-to-end delivery:** Delivered features across backend APIs and UI when needed to unblock timelines.
 - **Mentorship:** Onboarded and mentored engineers to raise team productivity.
@@ -44,6 +46,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="AngularJS" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
 </p>
 
@@ -77,6 +80,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
 </p>
 
@@ -95,10 +99,14 @@
 
 <h2 align="center">Experience Highlights</h2>
 
-- Resolved 800+ P0/P1 issues and shipped critical features stabilizing recruiter workflows.
-- Decoupled booking modules; reduced bugs and eased future development.
+- **SDE-2 at Instahyre**, leading flagship AI-powered hiring systems that transform job creation, candidate matching, and recruiter productivity.
+- Reduced job creation time by **65%** and improved candidate relevancy by **45%** in Instahyre's flagship 2026 beta.
+- Building real-time AI recommendations over large candidate datasets to expand relevant candidate pools by **40%** and improve relevancy by **30%**.
+- Resolved **1000+** tickets, including high-priority P0/P1 bugs, and shipped critical features stabilizing recruiter workflows.
+- Launched a consultancy hiring suite that increased retention by **30%+** and improved hiring speed by **20%**.
+- Decoupled booking modules, prevented duplicate bookings, and reduced slot-fetching wait time by **45%**.
 - Built dynamic, on-the-fly email templates to accelerate rollouts from ~30 hours to ~1 hour.
-- Improved attendance with real-time tracking and automated reminders.
+- Automated payouts, class scheduling, and dashboard workflows at Relevel, saving **260+ person-hours/month** and improving attendance by **30%**.
 
 ---
 
@@ -180,7 +188,8 @@
 
 <h2 align="center">Opportunities</h2>
 
-- Open to roles: **Backend Engineer**, **Senior Software Engineer**, and **Agentic AI** roles.
+- Currently: **SDE-2 at Instahyre**, working on backend systems and AI-powered hiring products.
+- Open to selective roles: **Senior Software Engineer**, **Backend Engineer**, and **Agentic AI** roles.
 - Interested in high-impact backend systems, scalable APIs, and intelligent agent platforms.
 
 ---
