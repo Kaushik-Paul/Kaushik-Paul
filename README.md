@@ -145,6 +145,15 @@
     <a href="https://github.com/Kaushik-Paul/Manga-Translator-OCR" style="display:inline-flex;">
       <img src="https://img.shields.io/github/stars/Kaushik-Paul/Manga-Translator-OCR?style=for-the-badge&logo=github&label=Manga-Translator-OCR" alt="Manga-Translator-OCR stars" />
     </a>
+    <a href="https://github.com/Kaushik-Paul/janitorai-voice-studio" style="display:inline-flex;">
+      <img src="https://img.shields.io/github/stars/Kaushik-Paul/janitorai-voice-studio?style=for-the-badge&logo=github&label=janitorai-voice-studio" alt="janitorai-voice-studio stars" />
+    </a>
+    <a href="https://github.com/Kaushik-Paul/Huggingface-File-Manager" style="display:inline-flex;">
+      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Huggingface-File-Manager?style=for-the-badge&logo=github&label=Huggingface-File-Manager" alt="Huggingface-File-Manager stars" />
+    </a>
+    <a href="https://github.com/Kaushik-Paul/Dlp-Video-Downloader" style="display:inline-flex;">
+      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Dlp-Video-Downloader?style=for-the-badge&logo=github&label=Dlp-Video-Downloader" alt="Dlp-Video-Downloader stars" />
+    </a>
     <a href="https://github.com/Kaushik-Paul/Cyber-Security-Agent" style="display:inline-flex;">
       <img src="https://img.shields.io/github/stars/Kaushik-Paul/Cyber-Security-Agent?style=for-the-badge&logo=github&label=Cyber-Security-Agent" alt="Cyber-Security-Agent stars" />
     </a>
