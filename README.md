@@ -148,6 +148,9 @@
     <a href="https://github.com/Kaushik-Paul/janitorai-voice-studio" style="display:inline-flex;">
       <img src="https://img.shields.io/github/stars/Kaushik-Paul/janitorai-voice-studio?style=for-the-badge&logo=github&label=janitorai-voice-studio" alt="janitorai-voice-studio stars" />
     </a>
+    <a href="https://github.com/Kaushik-Paul/Media-Toolbox" style="display:inline-flex;">
+      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Media-Toolbox?style=for-the-badge&logo=github&label=Media-Toolbox" alt="Media-Toolbox stars" />
+    </a>
     <a href="https://github.com/Kaushik-Paul/Huggingface-File-Manager" style="display:inline-flex;">
       <img src="https://img.shields.io/github/stars/Kaushik-Paul/Huggingface-File-Manager?style=for-the-badge&logo=github&label=Huggingface-File-Manager" alt="Huggingface-File-Manager stars" />
     </a>
@@ -210,5 +213,6 @@
 - **Projects:** <https://projects.kaushikpaul.co.in/>
 - **LinkedIn:** <https://www.linkedin.com/in/kaushik-paul-767590215>
 - **GitHub:** <https://github.com/Kaushik-Paul>
+- **Hugging Face:** <https://huggingface.co/kaushikpaul>
 
 If you'd like a quick walkthrough of any project, open an issue or reach out on LinkedIn.
