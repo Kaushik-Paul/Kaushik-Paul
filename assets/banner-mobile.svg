@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="440" viewBox="0 0 600 440" role="img" aria-labelledby="bTitle bDesc">
+  <title id="bTitle">Kaushik Paul — SDE-2 @ Instahyre</title>
+  <desc id="bDesc">Profile banner: Kaushik Paul, SDE-2 at Instahyre, building backend systems and agentic AI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="55%" stop-color="#131a2a" />
+      <stop offset="100%" stop-color="#1b1640" />
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7aa2f7" />
+      <stop offset="50%" stop-color="#bb9af7" />
+      <stop offset="100%" stop-color="#7dcfff" />
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#bb9af7" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#7dcfff" stop-opacity="0.6" />
+    </linearGradient>
+    <radialGradient id="avatarGradient" cx="0.35" cy="0.3" r="0.75">
+      <stop offset="0%" stop-color="#1f6feb" />
+      <stop offset="72%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#0d1117" />
+    </radialGradient>
+    <linearGradient id="rocketGradient" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#6c63ff" />
+      <stop offset="100%" stop-color="#5a52d3" />
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="60" />
+    </filter>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#c0caf5" fill-opacity="0.07" />
+    </pattern>
+    <clipPath id="card"><rect width="600" height="440" rx="24" /></clipPath>
+  </defs>
+  <style>
+    .blob1 { animation: drift1 14s ease-in-out infinite alternate; }
+    .blob2 { animation: drift2 18s ease-in-out infinite alternate; }
+    @keyframes drift1 { to { transform: translate(60px, 40px); } }
+    @keyframes drift2 { to { transform: translate(-60px, -30px); } }
+    .rocket { animation: float 4s ease-in-out infinite; transform-origin: 300px 120px; }
+    @keyframes float { 50% { transform: translateY(-8px); } }
+    .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .hello { font-size: 18px; font-weight: 600; letter-spacing: 4px; fill: #7aa2f7; }
+    .name { font-size: 64px; font-weight: 800; fill: url(#nameGrad); }
+    .role { font-size: 26px; font-weight: 500; fill: #c0caf5; }
+    .line { font-size: 21px; fill: #9ece6a; opacity: 0; }
+    .l1 { animation: cycle 12s infinite 0s; }
+    .l2 { animation: cycle 12s infinite 4s; }
+    .l3 { animation: cycle 12s infinite 8s; }
+    @keyframes cycle { 0%, 2% { opacity: 0; } 5%, 30% { opacity: 1; } 33%, 100% { opacity: 0; } }
+    .prompt { font-size: 21px; fill: #565f89; }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="600" height="440" fill="url(#bg)" />
+    <rect width="600" height="440" fill="url(#dots)" />
+    <circle class="blob1" cx="120" cy="60" r="130" fill="#7aa2f7" fill-opacity="0.22" filter="url(#blur)" />
+    <circle class="blob2" cx="500" cy="400" r="150" fill="#bb9af7" fill-opacity="0.22" filter="url(#blur)" />
+  </g>
+  <rect x="1" y="1" width="598" height="438" rx="23" fill="none" stroke="url(#edge)" stroke-width="2" />
+
+  <circle cx="300" cy="120" r="78" fill="none" stroke="#7aa2f7" stroke-opacity="0.25" stroke-width="2" stroke-dasharray="4 8" />
+  <circle cx="300" cy="120" r="66" fill="url(#avatarGradient)" stroke="#f0f6fc" stroke-opacity="0.18" stroke-width="2" />
+  <g class="rocket">
+    <g transform="translate(300 120) scale(0.44) translate(-128 -128)">
+      <g transform="translate(10 -10) scale(1.35) rotate(15 88 108)">
+        <path d="M88 8c28 22 40 54 40 86 0 32-12 64-40 86-28-22-40-54-40-86 0-32 12-64 40-86z" fill="url(#rocketGradient)" />
+        <circle cx="88" cy="68" r="14" fill="#ffffff" opacity="0.9" />
+        <circle cx="88" cy="68" r="8" fill="#5a52d3" opacity="0.9" />
+        <path d="M48 124c-16 6-28 20-32 36 14-6 30-6 44 0 0-14-4-26-12-36z" fill="#5a52d3" />
+        <path d="M128 124c16 6 28 20 32 36-14-6-30-6-44 0 0-14 4-26 12-36z" fill="#5a52d3" />
+        <path d="M88 180c0 16-8 28-20 36 2-12-4-22-12-30 10-2 22-4 32-6z" fill="#ffb703" />
+      </g>
+    </g>
+  </g>
+
+  <g text-anchor="middle">
+    <text x="300" y="240" class="sans hello">HI THERE, I'M</text>
+    <text x="300" y="304" class="sans name">Kaushik Paul</text>
+    <text x="300" y="344" class="sans role">SDE-2 @ Instahyre</text>
+    <text x="300" y="376" class="sans role" style="font-size:22px; fill:#a9b1d6">Backend Systems &amp; Agentic AI</text>
+    <text x="300" y="414" class="mono line l1">$ building production-grade AI agents</text>
+    <text x="300" y="414" class="mono line l2">$ scaling backend APIs that stay fast</text>
+    <text x="300" y="414" class="mono line l3">$ shipping high-impact hiring products</text>
+  </g>
+</svg>
