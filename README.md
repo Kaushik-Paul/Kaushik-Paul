@@ -133,132 +133,28 @@
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Kaushik-Paul/Price-Is-Right">📦 Price-Is-Right</a></h4>
-      <p>AI-powered deal and contract assistant using a fine-tuned LLM</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Price-Is-Right?style=flat-square&color=7aa2f7" alt="stars" />
-      <img src="https://img.shields.io/github/last-commit/Kaushik-Paul/Price-Is-Right?style=flat-square&color=bb9af7&label=updated" alt="last commit" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Kaushik-Paul/alex-agent">📦 alex-agent</a></h4>
-      <p>Multi-agent financial advisor with portfolio analysis and retirement planning</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/github/stars/Kaushik-Paul/alex-agent?style=flat-square&color=7aa2f7" alt="stars" />
-      <img src="https://img.shields.io/github/last-commit/Kaushik-Paul/alex-agent?style=flat-square&color=bb9af7&label=updated" alt="last commit" />
-    </td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="14" alt="python" /> <a href="https://github.com/Kaushik-Paul/Price-Is-Right" title="AI-powered deal and contract assistant using a fine-tuned LLM"><b>Price Is Right</b></a></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="14" alt="python" /> <a href="https://github.com/Kaushik-Paul/alex-agent" title="Multi-agent financial advisor with portfolio analysis and retirement planning"><b>alex agent</b></a></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="14" alt="python" /> <a href="https://github.com/Kaushik-Paul/AI-Twin" title="Advanced AI system that creates a digital twin of yourself"><b>AI Twin</b></a></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="14" alt="python" /> <a href="https://github.com/Kaushik-Paul/Manga-Translator-OCR" title="Manga translator using AI and OCR"><b>Manga Translator OCR</b></a></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Kaushik-Paul/AI-Twin">📦 AI-Twin</a></h4>
-      <p>Advanced AI system that creates a digital twin of yourself</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/github/stars/Kaushik-Paul/AI-Twin?style=flat-square&color=7aa2f7" alt="stars" />
-      <img src="https://img.shields.io/github/last-commit/Kaushik-Paul/AI-Twin?style=flat-square&color=bb9af7&label=updated" alt="last commit" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Kaushik-Paul/Manga-Translator-OCR">📦 Manga-Translator-OCR</a></h4>
-      <p>Manga translator using AI and OCR</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Manga-Translator-OCR?style=flat-square&color=7aa2f7" alt="stars" />
-      <img src="https://img.shields.io/github/last-commit/Kaushik-Paul/Manga-Translator-OCR?style=flat-square&color=bb9af7&label=updated" alt="last commit" />
-    </td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="14" alt="javascript" /> <a href="https://github.com/Kaushik-Paul/janitorai-voice-studio" title="Brings the power of TTS to JanitorAI"><b>janitorai voice studio</b></a></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="14" alt="python" /> <a href="https://github.com/Kaushik-Paul/Media-Toolbox" title="FFmpeg-powered video, audio and subtitle toolbox with AI features"><b>Media Toolbox</b></a></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="14" alt="python" /> <a href="https://github.com/Kaushik-Paul/Huggingface-File-Manager" title="Online file manager backed by a Hugging Face bucket"><b>Huggingface File Manager</b></a></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="14" alt="python" /> <a href="https://github.com/Kaushik-Paul/Dlp-Video-Downloader" title="Video downloader using yt-dlp and session cookies"><b>Dlp Video Downloader</b></a></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Kaushik-Paul/janitorai-voice-studio">📦 janitorai-voice-studio</a></h4>
-      <p>Brings the power of TTS to JanitorAI</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/github/stars/Kaushik-Paul/janitorai-voice-studio?style=flat-square&color=7aa2f7" alt="stars" />
-      <img src="https://img.shields.io/github/last-commit/Kaushik-Paul/janitorai-voice-studio?style=flat-square&color=bb9af7&label=updated" alt="last commit" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Kaushik-Paul/Media-Toolbox">📦 Media-Toolbox</a></h4>
-      <p>FFmpeg-powered video, audio and subtitle toolbox with AI features</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Media-Toolbox?style=flat-square&color=7aa2f7" alt="stars" />
-      <img src="https://img.shields.io/github/last-commit/Kaushik-Paul/Media-Toolbox?style=flat-square&color=bb9af7&label=updated" alt="last commit" />
-    </td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="14" alt="typescript" /> <a href="https://github.com/Kaushik-Paul/Cyber-Security-Agent" title="LLM-first agent that analyzes Python code and produces structured vulnerability reports"><b>Cyber Security Agent</b></a></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="14" alt="typescript" /> <a href="https://github.com/Kaushik-Paul/Healthcare-Saas" title="AI-powered healthcare SaaS that helps clinicians transform consultation notes"><b>Healthcare Saas</b></a></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="14" alt="python" /> <a href="https://github.com/Kaushik-Paul/Auto-AI-Agents-Creator" title="AI agents that collaborate to generate and refine ideas in parallel"><b>Auto AI Agents Creator</b></a></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="14" alt="python" /> <a href="https://github.com/Kaushik-Paul/AI-Agentic-Coder" title="Agentic coder that creates, tests, uploads and deploys apps from requirements"><b>AI Agentic Coder</b></a></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Kaushik-Paul/Huggingface-File-Manager">📦 Huggingface-File-Manager</a></h4>
-      <p>Online file manager backed by a Hugging Face bucket</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Huggingface-File-Manager?style=flat-square&color=7aa2f7" alt="stars" />
-      <img src="https://img.shields.io/github/last-commit/Kaushik-Paul/Huggingface-File-Manager?style=flat-square&color=bb9af7&label=updated" alt="last commit" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Kaushik-Paul/Dlp-Video-Downloader">📦 Dlp-Video-Downloader</a></h4>
-      <p>Video downloader using yt-dlp and session cookies</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Dlp-Video-Downloader?style=flat-square&color=7aa2f7" alt="stars" />
-      <img src="https://img.shields.io/github/last-commit/Kaushik-Paul/Dlp-Video-Downloader?style=flat-square&color=bb9af7&label=updated" alt="last commit" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Kaushik-Paul/Cyber-Security-Agent">📦 Cyber-Security-Agent</a></h4>
-      <p>LLM-first agent that analyzes Python code and produces structured vulnerability reports</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Cyber-Security-Agent?style=flat-square&color=7aa2f7" alt="stars" />
-      <img src="https://img.shields.io/github/last-commit/Kaushik-Paul/Cyber-Security-Agent?style=flat-square&color=bb9af7&label=updated" alt="last commit" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Kaushik-Paul/Healthcare-Saas">📦 Healthcare-Saas</a></h4>
-      <p>AI-powered healthcare SaaS that helps clinicians transform consultation notes</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Healthcare-Saas?style=flat-square&color=7aa2f7" alt="stars" />
-      <img src="https://img.shields.io/github/last-commit/Kaushik-Paul/Healthcare-Saas?style=flat-square&color=bb9af7&label=updated" alt="last commit" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Kaushik-Paul/Auto-AI-Agents-Creator">📦 Auto-AI-Agents-Creator</a></h4>
-      <p>AI agents that collaborate to generate and refine ideas in parallel</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Auto-AI-Agents-Creator?style=flat-square&color=7aa2f7" alt="stars" />
-      <img src="https://img.shields.io/github/last-commit/Kaushik-Paul/Auto-AI-Agents-Creator?style=flat-square&color=bb9af7&label=updated" alt="last commit" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Kaushik-Paul/AI-Agentic-Coder">📦 AI-Agentic-Coder</a></h4>
-      <p>Agentic coder that creates, tests, uploads and deploys apps from requirements</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/github/stars/Kaushik-Paul/AI-Agentic-Coder?style=flat-square&color=7aa2f7" alt="stars" />
-      <img src="https://img.shields.io/github/last-commit/Kaushik-Paul/AI-Agentic-Coder?style=flat-square&color=bb9af7&label=updated" alt="last commit" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Kaushik-Paul/Stock-Picker">📦 Stock-Picker</a></h4>
-      <p>AI stock recommendation agent driven by the latest news</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Stock-Picker?style=flat-square&color=7aa2f7" alt="stars" />
-      <img src="https://img.shields.io/github/last-commit/Kaushik-Paul/Stock-Picker?style=flat-square&color=bb9af7&label=updated" alt="last commit" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Kaushik-Paul/Grokking-Low-Level-Design">📦 Grokking-Low-Level-Design</a></h4>
-      <p>Low-level system design implementations with detailed requirements</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Grokking-Low-Level-Design?style=flat-square&color=7aa2f7" alt="stars" />
-      <img src="https://img.shields.io/github/last-commit/Kaushik-Paul/Grokking-Low-Level-Design?style=flat-square&color=bb9af7&label=updated" alt="last commit" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Kaushik-Paul/Stock-Market-Portfolio-Manager">📦 Stock-Market-Portfolio-Manager</a></h4>
-      <p>AI agents that analyze market trends and automate stock trades</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Stock-Market-Portfolio-Manager?style=flat-square&color=7aa2f7" alt="stars" />
-      <img src="https://img.shields.io/github/last-commit/Kaushik-Paul/Stock-Market-Portfolio-Manager?style=flat-square&color=bb9af7&label=updated" alt="last commit" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Kaushik-Paul/Career-Conversation">📦 Career-Conversation</a></h4>
-      <p>Conversational AI assistant that represents your professional profile</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/github/stars/Kaushik-Paul/Career-Conversation?style=flat-square&color=7aa2f7" alt="stars" />
-      <img src="https://img.shields.io/github/last-commit/Kaushik-Paul/Career-Conversation?style=flat-square&color=bb9af7&label=updated" alt="last commit" />
-    </td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="14" alt="python" /> <a href="https://github.com/Kaushik-Paul/Stock-Picker" title="AI stock recommendation agent driven by the latest news"><b>Stock Picker</b></a></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="14" alt="java" /> <a href="https://github.com/Kaushik-Paul/Grokking-Low-Level-Design" title="Low-level system design implementations with detailed requirements"><b>Grokking Low Level Design</b></a></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="14" alt="python" /> <a href="https://github.com/Kaushik-Paul/Stock-Market-Portfolio-Manager" title="AI agents that analyze market trends and automate stock trades"><b>Stock Market Portfolio Manager</b></a></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="14" alt="python" /> <a href="https://github.com/Kaushik-Paul/Career-Conversation" title="Conversational AI assistant that represents your professional profile"><b>Career Conversation</b></a></td>
   </tr>
 </table>
 
