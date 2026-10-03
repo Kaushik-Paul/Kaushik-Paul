@@ -272,9 +272,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblue.svg" />
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution activity graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaushik-Paul/Kaushik-Paul/output/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaushik-Paul/Kaushik-Paul/output/profile-season.svg" />
+    <img src="https://raw.githubusercontent.com/Kaushik-Paul/Kaushik-Paul/output/profile-night-rainbow.svg" alt="3D contribution activity graph" />
   </picture>
 </div>
 
