@@ -50,8 +50,9 @@
 
 <h2 align="center">🧰 Tech Stack</h2>
 
+<h3 align="center">💻 Languages</h3>
+
 <p align="center">
-  <sub><b>LANGUAGES</b></sub><br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
@@ -60,8 +61,9 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
 </p>
 
+<h3 align="center">⚙️ Backend</h3>
+
 <p align="center">
-  <sub><b>BACKEND</b></sub><br />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -70,8 +72,9 @@
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </p>
 
+<h3 align="center">🧠 AI &amp; Agents</h3>
+
 <p align="center">
-  <sub><b>AI &AMP; AGENTS</b></sub><br />
   <img src="https://img.shields.io/badge/Agentic_AI-00A3C4?style=flat-square&logo=openai&logoColor=white" alt="Agentic AI" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square&logo=crewai&logoColor=white" alt="CrewAI" />
@@ -85,8 +88,9 @@
   <img src="https://img.shields.io/badge/Prompt_Engineering-10A37F?style=flat-square&logo=openai&logoColor=white" alt="Prompt Engineering" />
 </p>
 
+<h3 align="center">🗄️ Data</h3>
+
 <p align="center">
-  <sub><b>DATA</b></sub><br />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -94,8 +98,9 @@
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
 </p>
 
+<h3 align="center">☁️ Cloud &amp; DevOps</h3>
+
 <p align="center">
-  <sub><b>CLOUD &AMP; DEVOPS</b></sub><br />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
