@@ -16,7 +16,7 @@
 
 <p align="center">
   I build <b>efficient backend systems</b> and <b>production-grade AI experiences</b> — with a focus on performance, reliability, developer experience and high-impact delivery.<br />
-  Currently leading Instahyre's flagship <b>2026 AI-powered job creation &amp; recommendation</b> beta and a team of <b>5 developers</b>.
+  Key contributor to <b>Instahyre 2.0</b> (launched Sep 2026), shipping AI-powered hiring features and leading a team of <b>5 developers</b>.
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
@@ -26,7 +26,7 @@
 <p align="center">
   <picture>
     <source media="(max-width: 640px)" srcset="assets/metrics-mobile.svg" />
-    <img src="assets/metrics.svg" width="100%" alt="65% faster job creation · 45% better candidate relevancy · 73% faster critical APIs · 1000+ tickets resolved · 30× faster feature rollouts · 260+ person-hours saved per month" />
+    <img src="assets/metrics.svg" width="100%" alt="65% faster job creation · 45% better candidate relevancy · 73% faster critical APIs · 1000+ tickets resolved · 60%+ larger candidate pools · 260+ person-hours saved per month" />
   </picture>
 </p>
 
@@ -34,14 +34,15 @@
 <summary><b>More experience highlights</b></summary>
 <br />
 
-- **SDE-2 at Instahyre**, leading flagship AI-powered hiring systems that transform job creation, candidate matching and recruiter productivity.
-- Building real-time AI recommendations over large candidate datasets — expanding relevant candidate pools by **40%** and improving relevancy by **30%**.
+- **Instahyre 2.0** (Sep 2026) — contributed to the relaunch, which added all job functions, a reimagined candidate profile and personalized job matching, with my team delivering a significant share of the work.
+- **Magic Boost** — AI-powered candidate expansion paired with Instahyre's proprietary matching algorithm, growing the relevant candidate pool for recruiters' jobs by **60%+**.
+- Took **AI-powered job creation &amp; recommendation** from beta to full release — **65%** faster job creation and **45%** better candidate relevancy.
+- Built real-time AI recommendations over large candidate datasets to suggest job changes, expanding relevant candidate pools by **40%** and improving relevancy by **30%**.
 - Leading **5 developers** across feature delivery, blocker resolution, code/design reviews and technical direction.
 - Launched a consultancy hiring suite that increased consultant retention by **30%+** and hiring speed by **20%**.
-- Decoupled and modularized booking/scheduling flows — prevented duplicate bookings, cut slot-fetching wait time by **45%** and reduced cross-module bugs.
-- Built dynamic, on-the-fly email templates, taking rollouts from ~30 hours to ~1 hour.
+- Decoupled booking and slot scheduling modules — prevented duplicate bookings, cut slot-fetching wait time by **45%** and reduced cross-module bugs.
+- Built dynamic, on-the-fly email templates, raising recruiter adoption by **60%** and cutting implementation time from ~30 hours to ~1 hour.
 - Automated payouts, class scheduling and dashboard workflows at Relevel, saving **260+ person-hours/month** and improving attendance by **30%**.
-- Delivered features end-to-end across backend APIs and UI to unblock timelines; onboarded and mentored engineers to raise team productivity.
 
 </details>
 
